@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated Computer Science graduate specializing in AI and ML, seeking a Technology Internship at State Street. Proficient in Java, Python, and C/C++, with experience in software development, cloud computing, and DevOps. Eager to contribute to State Street's digital transformation initiatives and grow as a future technology leader
+Motivated Computer Science graduate with a specialization in Artificial Intelligence and Machine Learning, seeking a technology-focused internship to leverage skills in Java, Python, and C/C++. Experienced in software development, cloud computing, and DevOps, with a strong foundation in designing and implementing innovative solutions. Eager to contribute to digital transformation initiatives while enhancing technical expertise and leadership capabilities.
 
 
 ## 🌐 Socials:
